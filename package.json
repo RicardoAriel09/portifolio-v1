@@ -1,0 +1,25 @@
+{
+  "name": "portifolio-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoAriel09/portifolio-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoAriel09/portifolio-v1/issues"
+  },
+  "homepage": "https://github.com/RicardoAriel09/portifolio-v1#readme",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
